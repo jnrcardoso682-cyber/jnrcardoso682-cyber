@@ -15,7 +15,6 @@ Segurança de Redes
 Defesa de Infraestruturas de Rede
 Objetivo Profissional
 📫 jnrcardoso682@gmail.com
-<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/5b0c27c8-5379-4480-b3e4-b102b48d5ff1" />
 
 <img width="420" height="170" alt="Ciberseguranca" src="https://github.com/user-attachments/assets/d90a1f21-2518-4158-956f-bafff5874837" />
 <img width="256" height="256" alt="Logo ciberseguranca" src="https://github.com/user-attachments/assets/7ac5edf1-5193-46ff-9035-9d4d496b961a" />
@@ -24,7 +23,7 @@ Objetivo Profissional
 <img width="330" height="170" alt="JavaScript" src="https://github.com/user-attachments/assets/acc66464-2f7d-464a-9b03-17667c95a197" />
 <img width="260" height="170" alt="HTML" src="https://github.com/user-attachments/assets/fad6bb7f-de70-4789-b10e-35ca8c9dfe7d" />
 <img width="260" height="170" alt="Java" src="https://github.com/user-attachments/assets/5dd89ef0-10bd-44d3-89c2-50ed03e8e197" />
-
+<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/5b0c27c8-5379-4480-b3e4-b102b48d5ff1" />
 
 
 
