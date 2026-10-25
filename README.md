@@ -1,32 +1,35 @@
-## Olá 👋
-Sou 😄Alfredo um profissional em - ⚡ transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento de Software e Segurança Cibernética. Tenho dedicação contínua ao aprendizado, desenvolvimento prático de projetos e fortalecimento das minhas competências técnicas para atuar em ambientes inovadores e desafiadores.
-Competências em Desenvolvimento 🤔
-🌱HTML5; CSS; JavaScript; TypeScript; Python; ReactNode.js; Git; GitHub; APIs REST; Banco de Dados SQL; Banco de Dados NoSQL.
-Possuo conhecimentos na criação de interfaces web responsivas, desenvolvimento de aplicações modernas, integração com APIs, controle de versão com Git/GitHub e manipulação de bancos de dados relacionais e não relacionais.
-👯Competências em Segurança Cibernética
-Também desenvolvo conhecimentos em Segurança da Informação, com foco nos controles do CIS Controls:
-CIS Controls 1 a 6, Inventário e Controle de Ativos, Inventário e Controle de Software, Proteção de Dados, Configurações Seguras
-Gerenciamento de Contas, Controle de Acesso, CIS Controls 7 a 12.- 💬 
-Gerenciamento Contínuo de Vulnerabilidades
-Gerenciamento de Logs
-Proteções contra Malware
-Recuperação de Dados
-Segurança de Redes
-Defesa de Infraestruturas de Rede
-Objetivo Profissional
-📫 jnrcardoso682@gmail.com
+👋 Olá, sou José Alfredo Cardoso Júnior
+💻 Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento de Software e Segurança Cibernética.
+Atualmente desenvolvo projetos práticos e aprimoro minhas habilidades em tecnologias modernas para construir aplicações seguras, eficientes e escaláveis.
+🚀 Tecnologias
+HTML5 • CSS3 • JavaScript • TypeScript • Python • React • Node.js • Git • GitHub • APIs REST • SQL • NoSQL
+🔐 Segurança Cibernética
+Estudos voltados para os CIS Controls, incluindo:
+Inventário e Controle de Ativos, Gerenciamento de Vulnerabilidades, Controle de Acesso, Segurança de Redes, Gerenciamento de Logs,
+Proteção de Dados, Recuperação de Dados, Proteção contra Malware
+📚 Atualmente Estudando Desenvolvimento Full Stack. React e Node.js, Python para Desenvolvimento e Automação, Banco de Dados SQL e NoSQ.
+Segurança da Informação, CIS Controls, Cybersecurity Fundamentals.
+🎯 Objetivo
+Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhecimentos em Desenvolvimento de Software e Segurança Cibernética, contribuindo com soluções inovadoras e seguras enquanto continuo minha evolução profissional.
 
-<img width="420" height="170" alt="Ciberseguranca" src="https://github.com/user-attachments/assets/b7e5413f-5990-4970-99a7-9e63bfd69a2e" />
-<img width="250" height="170" alt="CSS" src="https://github.com/user-attachments/assets/ae843f5f-2272-4c3f-ac57-6e8e8947c2cd" />
-<img width="274" height="170" alt="GitHub" src="https://github.com/user-attachments/assets/a54182fa-4dfc-4e39-9d72-1d0f6c0d6b3f" />
-<img width="260" height="170" alt="HTML" src="https://github.com/user-attachments/assets/ef7c92c0-d719-454b-bb21-0ad92ef08832" />
-<img width="260" height="170" alt="Java" src="https://github.com/user-attachments/assets/11acc788-9412-4228-8f93-a9e8a1c22490" />
-<img width="330" height="170" alt="JavaScript" src="https://github.com/user-attachments/assets/530f3e66-f035-437f-8673-8897dda8b408" />
-<img width="310" height="170" alt="Python" src="https://github.com/user-attachments/assets/1db59dc7-c9fd-43b3-81de-1a08dd501546" />
-<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/ac559719-9d35-419c-80d3-f98464eccb00" />
+🌐 Conecte-se comigo
+LinkedIn📧 jnrcardoso682@gmail.com
+<img width="1408" height="768" alt="Java Script" src="https://github.com/user-attachments/assets/b2d02d41-a891-40ee-bfd6-79244ad5d87a" />
+<img width="150" height="150" alt="HTML5" src="https://github.com/user-attachments/assets/9d2125e0-c5ce-4aac-b940-25ebfa36ece9" />
+<img width="200" height="200" alt="GitHub_Atual" src="https://github.com/user-attachments/assets/5c45d4a2-953d-4521-9e4b-3aaeeaaeb453" />
+<img width="150" height="150" alt="Git" src="https://github.com/user-attachments/assets/cabf6f61-07a9-4106-bb58-6a0156fd884b" />
+<img width="300" height="300" alt="CSS3" src="https://github.com/user-attachments/assets/30f1b8f0-2a08-44e8-91b2-5f4cd88e0444" />
+<img width="300" height="300" alt="Ciberseguranca_Verde" src="https://github.com/user-attachments/assets/511a56ba-bc1e-47fa-a72c-14a864280a1b" />
+<img width="300" height="300" alt="Ciberseguranca_Azul" src="https://github.com/user-attachments/assets/6bb9960e-395a-472c-82e9-ef45b21437f9" />
 
-
-
+<a href="mailto:jnrcardoso682@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://googleusercontent.com" 
+         alt="Gmail" 
+         width="40" 
+         height="40" 
+         style="display: block; border: 0; width: 40px; height: 40px;">
+</a>
+1. mailto:jnrcardoso682@gmail.com.
 
 
 - 
