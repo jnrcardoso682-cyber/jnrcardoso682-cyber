@@ -16,14 +16,15 @@ Defesa de Infraestruturas de Rede
 Objetivo Profissional
 📫 jnrcardoso682@gmail.com
 
-<img width="420" height="170" alt="Ciberseguranca" src="https://github.com/user-attachments/assets/d90a1f21-2518-4158-956f-bafff5874837" />
-<img width="256" height="256" alt="Logo ciberseguranca" src="https://github.com/user-attachments/assets/7ac5edf1-5193-46ff-9035-9d4d496b961a" />
-<img width="256" height="256" alt="Logo github" src="https://github.com/user-attachments/assets/cf409087-1947-4fd0-8785-3d13278e4833" />
-<img width="256" height="256" alt="Logo Python" src="https://github.com/user-attachments/assets/e84d6abb-ff79-4f7e-9d03-40db4411f87e" />
-<img width="330" height="170" alt="JavaScript" src="https://github.com/user-attachments/assets/acc66464-2f7d-464a-9b03-17667c95a197" />
-<img width="260" height="170" alt="HTML" src="https://github.com/user-attachments/assets/fad6bb7f-de70-4789-b10e-35ca8c9dfe7d" />
-<img width="260" height="170" alt="Java" src="https://github.com/user-attachments/assets/5dd89ef0-10bd-44d3-89c2-50ed03e8e197" />
-<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/5b0c27c8-5379-4480-b3e4-b102b48d5ff1" />
+<img width="420" height="170" alt="Ciberseguranca" src="https://github.com/user-attachments/assets/b7e5413f-5990-4970-99a7-9e63bfd69a2e" />
+<img width="250" height="170" alt="CSS" src="https://github.com/user-attachments/assets/ae843f5f-2272-4c3f-ac57-6e8e8947c2cd" />
+<img width="274" height="170" alt="GitHub" src="https://github.com/user-attachments/assets/a54182fa-4dfc-4e39-9d72-1d0f6c0d6b3f" />
+<img width="260" height="170" alt="HTML" src="https://github.com/user-attachments/assets/ef7c92c0-d719-454b-bb21-0ad92ef08832" />
+<img width="260" height="170" alt="Java" src="https://github.com/user-attachments/assets/11acc788-9412-4228-8f93-a9e8a1c22490" />
+<img width="330" height="170" alt="JavaScript" src="https://github.com/user-attachments/assets/530f3e66-f035-437f-8673-8897dda8b408" />
+<img width="310" height="170" alt="Python" src="https://github.com/user-attachments/assets/1db59dc7-c9fd-43b3-81de-1a08dd501546" />
+<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/ac559719-9d35-419c-80d3-f98464eccb00" />
+
 
 
 
