@@ -15,7 +15,8 @@ Segurança de Redes
 Defesa de Infraestruturas de Rede
 Objetivo Profissional
 📫 jnrcardoso682@gmail.com
-<img width="1024" height="1024" alt="logo do linkedin" src="https://github.com/user-attachments/assets/8c1735c6-4ec2-4f84-a6f2-5130c1dedbaa" />
+<img width="24" height="24" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/5b0c27c8-5379-4480-b3e4-b102b48d5ff1" />
+
 <img width="420" height="170" alt="Ciberseguranca" src="https://github.com/user-attachments/assets/d90a1f21-2518-4158-956f-bafff5874837" />
 <img width="256" height="256" alt="Logo ciberseguranca" src="https://github.com/user-attachments/assets/7ac5edf1-5193-46ff-9035-9d4d496b961a" />
 <img width="256" height="256" alt="Logo github" src="https://github.com/user-attachments/assets/cf409087-1947-4fd0-8785-3d13278e4833" />
