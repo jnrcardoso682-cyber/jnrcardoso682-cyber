@@ -20,15 +20,27 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 <img height="40" alt="Ciberseguranca_Verde" src="https://github.com/user-attachments/assets/511a56ba-bc1e-47fa-a72c-14a864280a1b" />
 <img height="40" alt="Ciberseguranca_Azul" src="https://github.com/user-attachments/assets/6bb9960e-395a-472c-82e9-ef45b21437f9" />
 
-<p align="center">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="HTML">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="CSS">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="JavaScript">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="Java">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="Git">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="GitHub">
-  <img src="https://githubusercontent.com" width="64" height="64" alt="Cybersegurança">
-</p>
+<!-- HTML -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="HTML">
+
+<!-- CSS -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="CSS">
+
+<!-- JavaScript -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="JavaScript">
+
+<!-- Java -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="Java">
+
+<!-- Git -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="Git">
+
+<!-- GitHub -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="GitHub">
+
+<!-- Cybersegurança -->
+<img src="https://githubusercontent.com" width="64" height="64" alt="Cybersegurança">
+
 
 Conecte-se comigo
 
