@@ -22,10 +22,10 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 
 Conecte-se comigo
 
-<img width="20" height="20" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
+<img width="20" height="20" alt="linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
 <a href="mailto:seu-email@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none; color: #333; font-family: sans-serif;">
-<<img src="https://wikimedia.org" alt="Gmail" style="width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a><img width="128" height="128" alt="gmail" src="https://github.com/user-attachments/assets/0f994e49-b90c-4d02-89fb-807d004bc096"/>
+<<img src="https://wikimedia.org"alt="Gmail" style="width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a><img width="128" height="128" alt="gmail" src="https://github.com/user-attachments/assets/0f994e49-b90c-4d02-89fb-807d004bc096"/>
 
 
 
