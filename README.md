@@ -25,7 +25,8 @@ Conecte-se comigo
 <img width="20" height="20" alt="logo - linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6" />[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
 <a href="mailto:seu-email@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none; color: #333; font-family: sans-serif;">
-<img width="1024" height="1024" alt="Logo gmail bem menor" src="https://github.com/user-attachments/assets/c594b2bd-5d38-4167-bd8c-42915ded6f2f" /><img src="https://wikimedia.org" alt="Gmail" style="width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a>
+<<img src="https://wikimedia.org" alt="Gmail" style="width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a><img width="1024" height="1024" alt="Logo gmail menor" src="https://github.com/user-attachments/assets/33dc0b21-78f0-44bc-b2aa-3fc2bc93cfc1" />
+
 
 
 
