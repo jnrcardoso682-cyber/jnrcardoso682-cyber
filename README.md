@@ -22,8 +22,13 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 Conecte-se comigo
 <img width="20" height="20" alt="linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
-📭<a href="mailto:seu- jnrcardoso682@gmail.com " style="display: inline-flex; align-items: center; text-decoration: none; color: #333; font-family: sans-serif;">
-<img src="https://wikimedia.org" alt="Gmail" style="width: 16px; height: auto; margin-right: 6px; vertical-align: middle;">
+📭<a href="mailto:jajunior707@gmail.com">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+    alt="E-mail"
+    width="50"
+    height="38"
+    style="border:0;">
 </a>
 
 
