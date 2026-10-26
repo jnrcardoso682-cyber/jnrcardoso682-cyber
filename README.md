@@ -31,4 +31,10 @@ Conecte-se comigo
 
 
 
-- 
+- <img width="589" height="808" alt="CSS" src="https://github.com/user-attachments/assets/f9e618de-af8b-47f3-92c0-f4ad489e969c" />
+<img width="811" height="137" alt="JavaScript" src="https://github.com/user-attachments/assets/82ae398b-2315-4ef0-bd89-1f12abf6c518" />
+<img width="641" height="792" alt="JAVA" src="https://github.com/user-attachments/assets/43aff7cb-28f5-4eef-b686-52db887a848e" />
+<img width="589" height="770" alt="HTML" src="https://github.com/user-attachments/assets/343a1aa4-ece0-441c-bf4a-e80e46ec411e" />
+<img width="724" height="211" alt="GitHub" src="https://github.com/user-attachments/assets/91cd5315-9f76-4672-baed-59aa78760f14" />
+<img width="592" height="333" alt="Git" src="https://github.com/user-attachments/assets/6bd3b779-cbfa-48b9-b2b8-d51ad3842f09" />
+<img width="618" height="780" alt="CYBERSEGURANÇA" src="https://github.com/user-attachments/assets/5c7aab5c-e6e1-468e-bca9-13f4c7f0e42d" />
