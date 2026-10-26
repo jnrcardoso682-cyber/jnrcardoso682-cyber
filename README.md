@@ -24,18 +24,10 @@ Conecte-se comigo
 
 [![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
-<a href="mailto:jnrcardoso682@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://googleusercontent.com" 
-         alt="Gmail" 
-         width="40" 
-         height="40" 
-         style="display: block; border: 0; width: 40px; height: 40px;">
+<a href="mailto:seu-email@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none; color: #333; font-family: sans-serif;">
+  <img src="https://wikimedia.org" alt="Gmail" style="width: 16px; height: auto; margin-right: 6px; vertical-align: middle;">
+  jnrcardoso682@gmail.com
 </a>
-
-<a href="mailto:jnrcardoso682@://gmail.com,">
-  <img src="https://wikimedia.org" alt="Fale Comigo pelo Gmail" width="50" height="37" style="border:0;">
-</a>
-</p>
 
 
 
