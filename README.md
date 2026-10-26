@@ -1,3 +1,4 @@
+<img width="589" height="808" alt="CSS" src="https://github.com/user-attachments/assets/a4cf526f-c35d-4245-82df-f329707ce7d0" />
 👋 Olá, sou José Alfredo Cardoso Júnior
 💻 Profissional em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento de Software e Segurança Cibernética.
 Atualmente desenvolvo projetos práticos e aprimoro minhas habilidades em tecnologias modernas para construir aplicações seguras, eficientes e escaláveis.
