@@ -29,7 +29,7 @@ LinkedIn📧 jnrcardoso682@gmail.com
          height="40" 
          style="display: block; border: 0; width: 40px; height: 40px;">
 </a>
-1. mailto:jnrcardoso682@gmail.com.
+
 
 
 - 
