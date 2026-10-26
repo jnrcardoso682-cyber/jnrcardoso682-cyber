@@ -22,7 +22,7 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 Conecte-se comigo
 <img width="20" height="20" alt="linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
-📭<a href="mailto:jnrcardoso682@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:jnrcardoso682@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://squarespace-cdn.com" alt="Enviar e-mail para jnrcardoso682@gmail.com" style="width:100%; max-width:600px; height:auto; border:none; cursor:pointer;">
 </a>
 
