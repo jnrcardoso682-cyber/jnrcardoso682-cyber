@@ -23,7 +23,8 @@ Conecte-se comigo
 
 <img width="24" height="20" alt="logo - linkedin-20px" src="https://github.com/user-attachments/assets/3fdddd91-2c05-4a25-9079-b33fbec084dd" /><img width="20" height="20" alt="linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
 
-📭<<imgsrc="https://wikimedia.org"alt="Gmail" style="width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a><img width="128" height="128" alt="gmail" src="https://github.com/user-attachments/assets/0f994e49-b90c-4d02-89fb-807d004bc096"/>
+📭<<imgsrc="https://wikimedia.org"alt="Gmail" style="
+width: 8px; height: auto; margin-right: 3px; vertical-align: middle;">jnrcardoso682@gmail.com</a><img width="128" height="128" alt="gmail" src="https://github.com/user-attachments/assets/0f994e49-b90c-4d02-89fb-807d004bc096"/>
 
 
 
