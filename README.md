@@ -24,9 +24,10 @@ Conecte-se comigo
 
 
 
-📫<a href="https://google.com" target="_blank">
-  <img width="600" alt="Enviar e-mail para jnrcardoso682@gmail.com" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c" />
+📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
+  <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
+
 
 
 
