@@ -40,7 +40,7 @@ Conecte-se comigo
     style="vertical-align: middle;"
   />
 </a> 
-<a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/?isSelfProfile=true"</" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b//" target="_blank" rel="noopener noreferrer">
   <img
     src="https://cdn.simpleicons.org/linkedin/0A66C2"
     alt="LinkedIn"
