@@ -20,10 +20,19 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 <img height="40" alt="Python_Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />.
 
 Conecte-se comigo
-<img width="20" height="20" alt="linkedin-24px" src="https://github.com/user-attachments/assets/1c826bc6-7761-46bb-921a-4f3c10039ea6"/>[![LinkedIn](https://wikimedia.org)](https://linkedin.com)
-
-
-
+<p>
+<a>
+<a href="https://www.facebook.com/juniorcardoso2019">
+<img src="https://flaticon.com" width="24" height="22" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/jjajunior707/">
+<img src="https://githubusercontent.com" alt="Instagram" width="20" height="20">
+</a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/?isSelfProfile=true"</>
+<img src="https://flaticon.com" alt="LinkedIn" width="25" height="22">
+<a/>
+</p>
+<br />
 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
   <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
