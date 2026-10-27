@@ -22,8 +22,14 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 Conecte-se comigo
 <p>
 <a>
-<a href="https://www.facebook.com/juniorcardoso2019">
-<img src="https://flaticon.com" width="22" height="22" alt="Facebook">
+<a href="https://www.facebook.com/juniorcardoso2019/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/facebook/0866FF"
+    alt="Facebook"
+    width="20"
+    height="20"
+    style="vertical-align: middle;"
+  />
 </a>
 <a href="https://www.instagram.com/jjajunior707/" target="_blank" rel="noopener noreferrer">
   <img
@@ -34,9 +40,15 @@ Conecte-se comigo
     style="vertical-align: middle;"
   />
 </a> 
-<a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/?isSelfProfile=true"</>
-<img align="left" alt= "icone do instagram no centro de um quadrado" width="22p" src="https://flaticon.com" alt="LinkedIn" width="22" height="22">
-<a/>
+<a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/?isSelfProfile=true"</" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn"
+    width="20"
+    height="20"
+    style="vertical-align: middle;"
+  />
+</a>
 </p>
 <br />
 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
