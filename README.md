@@ -43,16 +43,15 @@ Conecte-se comigo
 <a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
 </a>
-  />
-</a>
+  </a>
 </p>
 <br />
 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
   <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
 
-- https://github-readme-stats.vercel.app/api?jnrcardoso682-cybe=octocat&theme=radical
-+ https://github-stats-extended.vercel.app/api?jnrcardoso682-cybe=octocat&theme=radical
+ https://github-stats-extended.vercel.app/api?
+jnrcardoso682-cyber=octocat&theme=radical
 
 
 
