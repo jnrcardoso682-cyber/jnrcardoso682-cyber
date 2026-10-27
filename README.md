@@ -22,28 +22,16 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 Conecte-se comigo
 <p>
 <a>
-<a href="https://www.facebook.com/juniorcardoso2019/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/facebook/0866FF"
-    alt="Facebook"
-    width="20"
-    height="20"
-    style="vertical-align: middle;"
-  />
+<a href="https://www.facebook.com/juniorcardoso2019" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20" alt="Facebook">
 </a>
-<a href="https://www.instagram.com/jjajunior707/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/instagram/E4405F"
-    alt="Instagram"
-    width="20"
-    height="20"
-    style="vertical-align: middle;"
-  />
+<a href="https://www.instagram.com/jjajunior707/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" height="20" alt="Instagram">
+</a>
 </a> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
 </a>
-  </a>
 </p>
 <br />
 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
