@@ -33,8 +33,12 @@ Conecte-se comigo
 </a>
 </p>
 <br />
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jnrcardoso682-cyber)](https://github.com/stats-organization/github-stats-extended)
+
+https://github-stats-extended.vercel.app/api?username=jnrcardoso682-cyber
+
   <br />
+
+  
 📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
   <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
