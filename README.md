@@ -25,19 +25,25 @@ Conecte-se comigo
 <a href="https://www.facebook.com/juniorcardoso2019" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20" alt="Facebook">
 </a>
-<a href="https://www.instagram.com/jjajunior707/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" height="20" alt="Instagram">
-</a> 
+<a href="https://www.instagram.com/jjajunior707/" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="20" height="20">
+</a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
 </a>
 </p>
 <br />
-📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?
+jnrcardoso682-cyber=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+  
+  
+  
+  
+  📫<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jnrcardoso682@gmail.com" target="_blank">
   <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
 
- https://github-stats-extended.vercel.app/api?jnrcardoso682-cyber=octocat&theme=radical
+
 
 
 
