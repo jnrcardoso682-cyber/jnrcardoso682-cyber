@@ -40,13 +40,9 @@ Conecte-se comigo
     style="vertical-align: middle;"
   />
 </a> 
-<a href="https://https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    alt="LinkedIn"
-    width="20"
-    height="20"
-    style="vertical-align: middle;"
+<a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20">
+</a>
   />
 </a>
 </p>
@@ -55,6 +51,8 @@ Conecte-se comigo
   <img width="100" alt="Enviar e-mail pelo Gmail" src="https://github.com/user-attachments/assets/4b45253c-1de6-4185-b6a6-16671e946a6c">
 </a>
 
+- https://github-readme-stats.vercel.app/api?jnrcardoso682-cybe=octocat&theme=radical
++ https://github-stats-extended.vercel.app/api?jnrcardoso682-cybe=octocat&theme=radical
 
 
 
