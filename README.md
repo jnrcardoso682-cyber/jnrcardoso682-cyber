@@ -23,11 +23,17 @@ Conecte-se comigo
 <p>
 <a>
 <a href="https://www.facebook.com/juniorcardoso2019">
-<img src="https://flaticon.com" width="24" height="22" alt="Facebook">
+<img src="https://flaticon.com" width="22" height="22" alt="Facebook">
 </a>
-<a href="https://www.instagram.com/jjajunior707/">
-<img src="<img width="22" height="22" alt="Logo instagram" src="https://github.com/user-attachments/assets/3bcd2e15-7a60-476c-8f73-1911adbeadee" />
-</a>
+<a href="https://www.instagram.com/jjajunior707/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    alt="Instagram"
+    width="20"
+    height="20"
+    style="vertical-align: middle;"
+  />
+</a> 
 <a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-cardoso-j%C3%BAnior-9511ba3b/?isSelfProfile=true"</>
 <img align="left" alt= "icone do instagram no centro de um quadrado" width="22p" src="https://flaticon.com" alt="LinkedIn" width="22" height="22">
 <a/>
