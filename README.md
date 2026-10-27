@@ -34,7 +34,7 @@ Conecte-se comigo
 </p>
 <br />
 
-https://github-stats-extended.vercel.app/api?username=jnrcardoso682-cyber
+<img src="https://ghstats.dev/api/card?username=jnrcardoso682-cyber&custom_title=J%C3%BAnior+Stats" alt="GitHub Stats Card" />
 
   <br />
 
