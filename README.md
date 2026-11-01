@@ -17,7 +17,7 @@ Busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhe
 <img height="40" alt="Git" src="https://github.com/user-attachments/assets/cabf6f61-07a9-4106-bb58-6a0156fd884b" />
 <img height="40" alt="CSS3" src="https://github.com/user-attachments/assets/30f1b8f0-2a08-44e8-91b2-5f4cd88e0444" />
 <img height="40" alt="Ciberseguranca_Verde" src="https://github.com/user-attachments/assets/511a56ba-bc1e-47fa-a72c-14a864280a1b" />
-<img height="40" alt="Python_Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />.
+<img height="40" alt="Python_Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
 Conecte-se comigo
 <p>
